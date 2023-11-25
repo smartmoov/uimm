@@ -1,0 +1,27 @@
+# Fichiers temporaires
+*.pyc
+__pycache__/
+
+# Fichiers de configuration
+instance/
+.env
+
+# Dossiers de dépendances et fichiers générés
+venv/
+*.pyc
+*.pyo
+__pycache__/
+.env
+
+# Dossiers spécifiques à certains éditeurs/IDEs
+.vscode/
+.idea/
+
+# Fichiers de logs et fichiers temporaires
+*.log
+*.db
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
